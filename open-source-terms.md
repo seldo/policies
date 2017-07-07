@@ -175,45 +175,39 @@ may have to use Paid Services, are subject to the following conditions:
 
 ## Acceptable Content
 
-Administrators at npm reserve the right to delete content hosted on
-the npm Services that is deemed unacceptable. Unacceptable content
-can take the form of a package, a README file, a user or organization
-name, or any other content submitted to the npm Services. Content
-that is unacceptable includes but is not limited to:
+You will not submit any package data, README data, names for users,
+packages, or organization names, or other content to npm Services that:
 
-1. Content that is illegal, offensive, or otherwise harmful. This includes
-   content that is harassing, inappropriate or abusive.
+1. is illegal, offensive, or otherwise harmful, such as harassing,
+   inappropriate, or abusive content
 
-2. Content in violation of law, infringing the intellectual property
-   rights of others, violating the privacy or other rights of others,
-   or in violation of any agreement with a third party. This includes
-   code which violates a license.
+2. violates any law, infringes any intellectual property
+   right, privacy, or other right of another, or violates any
+   agreement with a third party. For example, You will not submit
+   others' content in violation of license terms.
 
-3. Content containing malicious computer code, such as computer viruses,
-   computer worms, rootkits, back doors, adware, or spyware. This
-   includes content submitted for research purposes unless agreed to
-   in advance by npm. Tools designed and documented explicitly to
-   assist in security research are acceptable, but proof-of-concept
-   exploits are not.
+3. contains malicious computer code, such as computer viruses,
+   computer worms, rootkits, back doors, adware, or spyware, even for
+   research purposes, without prior written permission from npm.
 
-4. Packages that are not functionally compatible with the npm
-   command-line client. For example, a "package" cannot be a PNG or
-   JPEG image, a movie file, or a text document. Using the Public
-   Registry as a general purpose database is not allowed.
+4. takes the form of a package that is not functionally compatible
+   with the npm command-line client, such as image, movie, audio,
+   or text files. You will not use Public Registry as a general
+   purpose database.
 
-5. Content that exists only to "reserve" a name, whether a package name,
-   user name, or organization name, i.e. "squatting". The
-   [Dispute Policy](https://www.npmjs.com/policies/disputes) governs
-   how npm handles cases of squatting.
-
-To find out how to report violations of Acceptable Content, refer to the
-[Code of Conduct](https://www.npmjs.com/policies/conduct).
+5. serves only to prevent others from using a particular package,
+   user, or organization name. The [Dispute
+   Policy](https://www.npmjs.com/policies/disputes) governs how npm
+   handles cases of squatting.
 
 ## Enforcement of Acceptable Use
 
 npm may investigate and prosecute violations of this Agreement to the
 fullest legal extent. npm may notify and cooperate with law enforcement
 authorities in prosecuting violations of this Agreement.
+
+npm reserves the right to refuse and delete any content from
+npm Services that it finds unacceptable.
 
 ## Your Account
 
